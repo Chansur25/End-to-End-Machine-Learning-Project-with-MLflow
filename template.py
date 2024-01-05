@@ -11,9 +11,8 @@ list_of_files = [
     f"src/{project_name}/__init__.py",
     f"src/{project_name}/components/__init__.py",
     f"src/{project_name}/utils/__init__.py",
-    f"src/{project_name}/components/common.py",
+    f"src/{project_name}/utils/common.py",
     f"src/{project_name}/config/__init__.py",
-    f"src/{project_name}/utils/configuration.py",
     f"src/{project_name}/pipeline/__init__.py",
     f"src/{project_name}/entity/__init__.py",
     f"src/{project_name}/entity/config_entity.py",
@@ -26,7 +25,7 @@ list_of_files = [
     "Dockerile",
     "requirements.txt",
     "setup.py",
-    "resaerch/trials.pynb",
+    "resaerch/trials.ipynb",
     "templates/index.html",
     "test.py"
     
